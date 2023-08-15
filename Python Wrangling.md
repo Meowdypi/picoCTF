@@ -26,7 +26,8 @@ To find the password we can cat the pw.txt file:
 	$ cat pw.txt
 	
 Copy the output 'ac9bd0ffac9bd0ffac9bd0ffac9bd0ff' (using *ctrl + shift +c*)
-![[Pasted image 20230815175514.png]]
+
+![Pasted image 20230815175448](https://github.com/Meowdypi/picoCTF/assets/122643833/a1955b12-8b9a-4b66-8c17-d282c662df56)
 
 
 Next, we can run ende.py, with -d for 'debug', and add flag.txt.en as the ASCII target file 
