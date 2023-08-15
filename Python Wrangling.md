@@ -18,7 +18,7 @@ First step I like to take after downloading the files, is to find out more about
 We're can see we're given: 
 1. ende.py - a Python script that executes ASCII
 2. flag.txt.en - an ASCII text file
-3. flag.txt a text file containing the password
+3. flag.txt - a text file containing the password
 
 
 To find the password we can cat the pw.txt file:
