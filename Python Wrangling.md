@@ -1,7 +1,7 @@
 #python #ASCII 
 # Python Wrangling
 
-[![[Pasted image 20230815165508.png]]](https://github.com/Meowdypi/picoCTF/blob/388f9cb27514d62e072731b2cbc637e5074dccb1/Pasted%20image%2020230815165508.png)
+![Pasted image 20230815165508](https://github.com/Meowdypi/picoCTF/assets/122643833/f12fbc72-2a43-4869-a303-8b97c4037b25)
 
 ## Quick solution:
 ![[Pasted image 20230815165609.png]]
