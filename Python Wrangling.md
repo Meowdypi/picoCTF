@@ -43,5 +43,7 @@ And there's the flag:
 
 
 ### Arguments for running python3:
-![[Pasted image 20230815175713.png]]
+
+![Pasted image 20230815175713](https://github.com/Meowdypi/picoCTF/assets/122643833/aa5fe3d5-f4f6-4080-b91d-3452de528ad3)
+
 
