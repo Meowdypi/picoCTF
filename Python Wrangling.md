@@ -38,7 +38,8 @@ Next, we can run ende.py, with -d for 'debug', and add flag.txt.en as the ASCII 
 Paste (*Ctrl + shift + v*) 'ac9bd0ffac9bd0ffac9bd0ffac9bd0ff'
 
 And there's the flag:
-![[Pasted image 20230815175634.png]]
+
+![Pasted image 20230815175634](https://github.com/Meowdypi/picoCTF/assets/122643833/437be390-b64d-463c-b3d9-5f307a64ff46)
 
 
 ### Arguments for running python3:
