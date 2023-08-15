@@ -10,7 +10,7 @@
 ## Solution -v:
 First step I like to take after downloading the files, is to find out more about these files we're given, so let's run a file command:
 	
-	$ file ende.py && file flag.txt.en && file flag.
+	$ file ende.py && file flag.txt.en && file flag.txt
 
 ![Pasted image 20230815174325](https://github.com/Meowdypi/picoCTF/assets/122643833/dd1febc1-5964-4ea3-b9d2-bfc04bbb77a8)
 
