@@ -4,7 +4,8 @@
 ![Pasted image 20230815165508](https://github.com/Meowdypi/picoCTF/assets/122643833/f12fbc72-2a43-4869-a303-8b97c4037b25)
 
 ## Quick solution:
-Pasted image 20230815165609.png
+
+![Pasted image 20230815165609](https://github.com/Meowdypi/picoCTF/assets/122643833/0cea8a6a-a784-4ce1-9b84-e70494df04ce)
 
 ## Solution -v:
 First step I like to take after downloading the files, is to find out more about these files we're given, so let's run a file command:
