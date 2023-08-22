@@ -1,3 +1,3 @@
 # picoCTF
 
-Playing picoCTF practice challenges
+Playing picoCTF practice challenges for fun
